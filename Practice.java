@@ -18,7 +18,7 @@ class Main{
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the value of num");
-        p.num = sc.nextInt();
+        p.num = sc.nextInt();// it is just testing 
 
         System.out.println("Enter power");
         p.pow = sc.nextInt();
